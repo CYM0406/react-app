@@ -1,0 +1,9 @@
+.dw{
+    position: relative;
+}
+.dw .am-button-warning {
+    position: absolute !important;
+    right: 0;
+    bottom: 8px;
+    z-index: 9999 !important;
+}
